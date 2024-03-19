@@ -1,0 +1,85 @@
+*{
+ padding: 0;
+margin: 0;
+}
+body{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+/* header section */
+.logo img{
+    margin-top: 50px;
+}
+.horizental{
+    height: 1px;
+    background-color: darkgrey;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+.sub-heading{
+    text-align: center;
+    margin-top: 10px;
+}
+h1{
+    font-size: 50px;
+}
+/* ḥero section */
+
+.hero-content{
+    color:blue;
+     margin-top: 30px; 
+}
+.container1{
+    float: left;
+    margin-bottom: 30px;
+}
+.container2{
+    float: right;
+margin-bottom: 30px;
+}
+/* table section */
+table{
+    margin-top: 80px;
+    width: 100%;
+    margin: auto;
+     border-collapse: collapse; 
+}
+.t-heading{
+    background-color: cornflowerblue;
+    height: 40px;
+}
+tr{
+    height: 40px;
+    border-collapse: collapse;
+    border: 1px solid gray;
+    text-align: left;
+    
+}
+/* contact section */
+.contact{
+    margin-top: 30px;
+}
+.contact-us{
+    float: left;
+}
+.Payment-info{
+    float: right;
+}
+/* ṇotice */
+.notice{
+    text-align: center;
+    margin-top: 150px;
+}
+/* footer */
+footer{
+    margin-top: 30px;
+
+}
+.footer-content1{
+    float: right;
+    margin-bottom: 30px;
+}
+.footer-content2{
+    float: left;
+}
